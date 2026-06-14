@@ -1,7 +1,10 @@
 # ✈️ Traveller
 
-A Flutter-based travel UI application showcasing destination browsing, booking flow, and user profile management. Built as a university project (AUST, CSE) — all data is hardcoded; no backend or database is used.
+A multi-screen travel booking UI built with Flutter as part of my CSE coursework 
+at AUST. The app demonstrates navigation flow, widget composition, and cross-platform 
+deployment (Android, iOS, Web, Desktop) from a single Dart codebase.
 
+> UI-only prototype — all data is hardcoded, no backend.
 ---
 
 ## 📸 Screenshots
@@ -14,7 +17,7 @@ A Flutter-based travel UI application showcasing destination browsing, booking f
 |:---:|:---:|
 | ![Destination](destination_screen.png) | ![Profile](profile_screen.png) |
 
-| Screenshot 423 | Screenshot 424 | Screenshot 427 |
+| Display page1 | Display page2 | Display page3 |
 |:---:|:---:|:---:|
 | ![](Screenshot423.png) | ![](Screenshot424.png) | ![](Screenshot427.png) |
 
@@ -37,24 +40,7 @@ A Flutter-based travel UI application showcasing destination browsing, booking f
 
 ---
 
-## 🗺️ Destinations & Activities
 
-Assets bundled in the app:
-
-**Destinations**
-- Mountains (`mountainone`, `mountaintwo`, `mountainthree`, `mountain`)
-- Nature scenery (`natureone`, `naturetwo`, `naturethree`)
-- Inani Beach, Cox's Bazar
-
-**Activities**
-- 🎈 Ballooning
-- 🥾 Hiking
-- 🚣 Kayaking
-- 🤿 Snorkeling
-
-All images are local assets — no network calls are made.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -113,11 +99,10 @@ traveller/
 └── analysis_options.yaml
 ```
 
-> **Note:** The internal package name is `projectone` (from `pubspec.yaml`) — the display name "Traveller" is set at the platform level.
 
 ---
 
-## ⚠️ Known Limitations
+##  Limitations
 
 - No real login — any input navigates forward
 - User profile data (Mili, Dhaka, mili@gmail.com) is hardcoded
@@ -127,7 +112,7 @@ traveller/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Mayesha Kader**  
 BSc CSE, Ahsanullah University of Science and Technology (AUST)  
