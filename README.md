@@ -10,7 +10,7 @@ A Flutter-based travel UI application showcasing destination browsing, booking f
 |:---:|:---:|:---:|
 | ![Login](login_screen.png) | ![Sign In](signin_screen.png) | ![Home](/home_screen.png) |
 
-| Destination Detail | User Profile |Home
+| Destination Detail | User Profile |Home |
 |:---:|:---:|
 | ![Destination](destination_screen.png) | ![Profile](profile_screen.png) |![Home](Screenshot (423).png) |
 
