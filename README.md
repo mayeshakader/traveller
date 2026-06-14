@@ -16,7 +16,7 @@ A Flutter-based travel UI application showcasing destination browsing, booking f
 
 | Screenshot 423 | Screenshot 424 | Screenshot 427 |
 |:---:|:---:|:---:|
-| ![](Screenshot(423).png) | ![](Screenshot(424).png) | ![](Screenshot(427).png) |
+| ![](Screenshot423.png) | ![](Screenshot424.png) | ![](Screenshot427.png) |
 
 ---
 
